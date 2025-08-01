@@ -22,4 +22,3 @@ Clone the repo:
 git clone https://github.com/Amee365/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
-streamlit run app.py -->
