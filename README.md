@@ -19,7 +19,7 @@ A machine learning web app that detects whether news content is **real** or **fa
 
 Clone the repo:
 ```bash
-git clone 
+git clone https://github.com/Amee365/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py -->
